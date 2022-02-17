@@ -1,5 +1,9 @@
 hot-fix test
 Hello world!Hello git!  master
 in uestc ...hhhh
+<<<<<<< HEAD
 Hello world!Hello git!
 master test
+=======
+Hello world!Hello git! hot-fix
+>>>>>>> hot-fix
